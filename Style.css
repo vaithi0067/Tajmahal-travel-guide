@@ -1,0 +1,187 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Kaushan+Script&family=Marck+Script&family=Oleo+Script:wght@400;700&family=Pacifico&family=Sacramento&family=Six+Caps&family=Teachers:ital,wght@0,400..800;1,400..800&family=Yellowtail&display=swap');
+
+a{
+    color: #a71f50;
+}
+header{
+    border-bottom:5px solid rgb(0, 0, 0) ;
+}
+.hed{
+    margin: auto;
+    padding-left: 30px;
+    width: 60%;
+    /* position: relative; */
+    /* border: 15px solid red;
+    background-color: aqua; */
+    
+}
+.pho{
+    margin: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    /* border: 15px solid red;
+    background-color: aqua; */
+    size: 400vh;
+
+}
+#navbar{
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: 2px solid red; */
+    height: 70px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0%;
+    border: 2px solid white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+#navbar>select  I h5{
+
+    border: 2px solid white;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 15px;
+    color: green;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+#navbar>select I h5:hover{
+
+    color: #a71f50;
+    text-decoration: underline;
+}
+
+/* <!-- ..... section 1 ..... --> */
+
+.sce1{
+    font-family: "Teachers", sans-serif;
+    
+    width: 100%;
+}
+
+.step1{
+    color: rgb(102, 101, 100);
+
+    margin: auto;
+    width: 45%;
+    margin-top: 50px;
+    font-size: 20px;
+    /* background-color: rgb(47, 0, 255); */
+    line-height: 30px;
+}
+ p ,h4{
+    margin: 20px;
+}
+
+.hed1{
+
+    padding: 20px;
+    text-align: center;
+    /* background-color: aquamarine; */
+    font-size: 25px;
+    line-height: 30px;
+}
+.top8 .icon1{
+
+    font-size: 40px;
+
+}
+
+.top9{
+
+    margin-top: 20px;
+}
+.img01{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.top09 ul{
+
+    list-style-type: none;
+    text-decoration: none;
+}
+.top09{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.top09 a{
+    margin-left: 20px;
+}
+
+.top09 img{
+    margin-bottom: 15%;
+}
+.top0010{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    
+
+}
+
+
+
+.afer{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    color: black;
+    text-decoration: none;
+}
+
+.content{
+
+    padding: 50px;
+    padding-left: 10%;
+    background-color: rgb(43, 42, 41);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 150%;
+    color: white;
+
+}
+
+footer h5{
+    font-size: 20px;
+    padding-right: 10%;
+    
+}
+
+footer a{
+    color: white;
+}
+
+footer img{
+    padding-left: 15%;
+}
+
+.fi{
+    
+    padding-right: 20%;
+}
